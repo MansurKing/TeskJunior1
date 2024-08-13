@@ -13,7 +13,7 @@ namespace TeskJunior1
             ulong waitingTimeClient;
             float playerMoney;
             double goldCount;
-            bool senInsansın;
+            bool isAbleToLiftASofa;
             char greeting = '≠';
             decimal moneyBoss;
         }
